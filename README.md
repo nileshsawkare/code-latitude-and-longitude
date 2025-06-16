@@ -21,7 +21,6 @@ int main() {
    printf("pincode:%d\n", pincode);
    printf("height:%f\n", height);
    printf("location%lf %lf\n", latitude, longitude);
-   return 0;
    
     return 0;
 }
